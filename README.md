@@ -9,5 +9,6 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-18 11:50 | 2026-W42 | #8 [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br><sub>Ghidra is a software reverse engineering (SRE) framework</sub> | 90,346 | +7,608 | Java | [hxxihhz1597/ghidra](https://github.com/hxxihhz1597/ghidra) |
 | 2026-10-16 19:40 | 2026-W42 | #2 [storytold/artcraft](https://github.com/storytold/artcraft)<br><sub>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</sub> | 29,885 | +22,319 | Rust | [hxxihhz1597/artcraft](https://github.com/hxxihhz1597/artcraft) |
 <!-- weekly-ranking:end -->
