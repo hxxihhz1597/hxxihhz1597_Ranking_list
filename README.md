@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-23 15:50 | 2026-W43 | #5 [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)<br><sub>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists…</sub> | 53,997 | +3,967 | Python | [hxxihhz1597/scientific-agent-skills](https://github.com/hxxihhz1597/scientific-agent-skills) |
 | 2026-10-21 18:20 | 2026-W43 | [morluto/rea](https://github.com/morluto/rea)<br><sub>Reverse engineer anything with agents, from app behavior down to native binaries.</sub> | 352,641 | +157,631 | TypeScript | [hxxihhz1597/rea](https://github.com/hxxihhz1597/rea) |
 | 2026-10-20 19:20 | 2026-W43 | #8 [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)<br><sub>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbi…</sub> | 78,177 | +17,291 | Python | [hxxihhz1597/VoiceStudio](https://github.com/hxxihhz1597/VoiceStudio) |
 | 2026-10-18 11:50 | 2026-W42 | #8 [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br><sub>Ghidra is a software reverse engineering (SRE) framework</sub> | 90,346 | +7,608 | Java | [hxxihhz1597/ghidra](https://github.com/hxxihhz1597/ghidra) |
