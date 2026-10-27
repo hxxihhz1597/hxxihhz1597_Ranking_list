@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-27 11:00 | 2026-W44 | #4 [anomalyco/opencode](https://github.com/anomalyco/opencode)<br><sub>The open source coding agent.</sub> | 222,003 | +5,070 | TypeScript | [hxxihhz1597/opencode](https://github.com/hxxihhz1597/opencode) |
 | 2026-10-24 15:00 | 2026-W43 | #6 [stablyai/orca](https://github.com/stablyai/orca)<br><sub>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with…</sub> | 104,164 | +9,545 | TypeScript | [hxxihhz1597/orca](https://github.com/hxxihhz1597/orca) |
 | 2026-10-23 15:50 | 2026-W43 | #5 [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)<br><sub>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists…</sub> | 53,997 | +3,967 | Python | [hxxihhz1597/scientific-agent-skills](https://github.com/hxxihhz1597/scientific-agent-skills) |
 | 2026-10-21 18:20 | 2026-W43 | [morluto/rea](https://github.com/morluto/rea)<br><sub>Reverse engineer anything with agents, from app behavior down to native binaries.</sub> | 352,641 | +157,631 | TypeScript | [hxxihhz1597/rea](https://github.com/hxxihhz1597/rea) |
