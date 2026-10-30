@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-30 20:40 | 2026-W44 | #7 [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br><sub>Agent skills that give coding agents taste: art direction, reference images and a browser check instead of ge…</sub> | 105,989 | +4,359 | JavaScript | [hxxihhz1597/taste-skill](https://github.com/hxxihhz1597/taste-skill) |
 | 2026-10-28 17:20 | 2026-W44 | #10 [android/skills](https://github.com/android/skills) | 9,947 | +873 | Kotlin | [hxxihhz1597/skills](https://github.com/hxxihhz1597/skills) |
 | 2026-10-27 11:00 | 2026-W44 | #4 [anomalyco/opencode](https://github.com/anomalyco/opencode)<br><sub>The open source coding agent.</sub> | 222,003 | +5,070 | TypeScript | [hxxihhz1597/opencode](https://github.com/hxxihhz1597/opencode) |
 | 2026-10-24 15:00 | 2026-W43 | #6 [stablyai/orca](https://github.com/stablyai/orca)<br><sub>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with…</sub> | 104,164 | +9,545 | TypeScript | [hxxihhz1597/orca](https://github.com/hxxihhz1597/orca) |
