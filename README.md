@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-02 18:00 | 2026-W45 | #3 [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)<br><sub>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, G…</sub> | 25,756 | +5,034 | Python | [hxxihhz1597/claude-seo](https://github.com/hxxihhz1597/claude-seo) |
 | 2026-11-01 09:50 | 2026-W44 | #5 [obra/superpowers](https://github.com/obra/superpowers)<br><sub>An agentic skills framework & software development methodology that works.</sub> | 310,086 | +5,636 | Shell | [hxxihhz1597/superpowers](https://github.com/hxxihhz1597/superpowers) |
 | 2026-10-30 20:40 | 2026-W44 | #7 [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br><sub>Agent skills that give coding agents taste: art direction, reference images and a browser check instead of ge…</sub> | 105,989 | +4,359 | JavaScript | [hxxihhz1597/taste-skill](https://github.com/hxxihhz1597/taste-skill) |
 | 2026-10-28 17:20 | 2026-W44 | #10 [android/skills](https://github.com/android/skills) | 9,947 | +873 | Kotlin | [hxxihhz1597/skills](https://github.com/hxxihhz1597/skills) |
