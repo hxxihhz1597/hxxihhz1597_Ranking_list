@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-09 12:50 | 2026-W46 | #2 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, com…</sub> | 114,996 | +6,443 | TypeScript | [hxxihhz1597/claude-mem](https://github.com/hxxihhz1597/claude-mem) |
 | 2026-11-05 08:40 | 2026-W45 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, com…</sub> | 112,843 | +8,822 | TypeScript | [hxxihhz1597/claude-mem](https://github.com/hxxihhz1597/claude-mem) |
 | 2026-11-03 22:30 | 2026-W45 | #8 [anthropics/skills](https://github.com/anthropics/skills)<br><sub>Public repository for Agent Skills</sub> | 187,000 | +2,828 | Python | [hxxihhz1597/skills-1](https://github.com/hxxihhz1597/skills-1) |
 | 2026-11-02 18:00 | 2026-W45 | #3 [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)<br><sub>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, G…</sub> | 25,756 | +5,034 | Python | [hxxihhz1597/claude-seo](https://github.com/hxxihhz1597/claude-seo) |
