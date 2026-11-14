@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-14 10:10 | 2026-W46 | #4 [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)<br><sub>Browser automation CLI for AI agents</sub> | 50,753 | +4,360 | Rust | [hxxihhz1597/agent-browser](https://github.com/hxxihhz1597/agent-browser) |
 | 2026-11-11 15:00 | 2026-W46 | #8 [mattpocock/skills](https://github.com/mattpocock/skills)<br><sub>Skills for Real Engineers. Straight from my .agents directory.</sub> | 321,226 | +9,872 | Shell | [hxxihhz1597/skills-2](https://github.com/hxxihhz1597/skills-2) |
 | 2026-11-09 12:50 | 2026-W46 | #2 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, com…</sub> | 114,996 | +6,443 | TypeScript | [hxxihhz1597/claude-mem](https://github.com/hxxihhz1597/claude-mem) |
 | 2026-11-05 08:40 | 2026-W45 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, com…</sub> | 112,843 | +8,822 | TypeScript | [hxxihhz1597/claude-mem](https://github.com/hxxihhz1597/claude-mem) |
