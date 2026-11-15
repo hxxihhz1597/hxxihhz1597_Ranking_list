@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-15 18:50 | 2026-W46 | #7 [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)<br><sub>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-s…</sub> | 72,358 | +4,526 | Python | [hxxihhz1597/daily_stock_analysis](https://github.com/hxxihhz1597/daily_stock_analysis) |
 | 2026-11-14 10:10 | 2026-W46 | #4 [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)<br><sub>Browser automation CLI for AI agents</sub> | 50,753 | +4,360 | Rust | [hxxihhz1597/agent-browser](https://github.com/hxxihhz1597/agent-browser) |
 | 2026-11-11 15:00 | 2026-W46 | #8 [mattpocock/skills](https://github.com/mattpocock/skills)<br><sub>Skills for Real Engineers. Straight from my .agents directory.</sub> | 321,226 | +9,872 | Shell | [hxxihhz1597/skills-2](https://github.com/hxxihhz1597/skills-2) |
 | 2026-11-09 12:50 | 2026-W46 | #2 [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, com…</sub> | 114,996 | +6,443 | TypeScript | [hxxihhz1597/claude-mem](https://github.com/hxxihhz1597/claude-mem) |
