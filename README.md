@@ -9,6 +9,7 @@
 
 | 记录时间 | 周次 | 最火项目 | 总星 | 本周新增 | 语言 | 我的 fork |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-21 09:20 | 2026-W47 | #3 [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)<br><sub>Keep your coding agent up to date with the latest web best practices</sub> | 9,534 | +5,224 | TypeScript | [hxxihhz1597/modern-web-guidance-src](https://github.com/hxxihhz1597/modern-web-guidance-src) |
 | 2026-11-19 08:10 | 2026-W47 | #9 [anthropics/skills](https://github.com/anthropics/skills)<br><sub>Public repository for Agent Skills</sub> | 197,202 | +4,381 | Python | [hxxihhz1597/skills-1](https://github.com/hxxihhz1597/skills-1) |
 | 2026-11-18 20:30 | 2026-W47 | #8 [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)<br><sub>Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars…</sub> | 6,988 | +2,985 | Python | [hxxihhz1597/claude-trading-skills](https://github.com/hxxihhz1597/claude-trading-skills) |
 | 2026-11-17 17:00 | 2026-W47 | #5 [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)<br><sub>Browser automation CLI for AI agents</sub> | 52,188 | +3,760 | Rust | [hxxihhz1597/agent-browser](https://github.com/hxxihhz1597/agent-browser) |
